@@ -45,7 +45,7 @@ Logistic Regression
 
 
 
-***Evaluation: ***Used 10-fold cross-validation with metrics including accuracy, precision, recall, and F1 score.
+***Evaluation:*** Used 10-fold cross-validation with metrics including accuracy, precision, recall, and F1 score.
 
 ***Results***
 
